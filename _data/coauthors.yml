@@ -1,18 +1,22 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Atkinson": 
+ - firstname: ["Joshua T.", "Joshua"]
+   url: https://scholar.google.com/citations?user=YEvcaogAAAAJ&hl=en
+"Silberg":
+  - firstname: ["Jonathan J.", "Jonathan"]
+    url: https://scholar.google.com/citations?user=w3uEh7oAAAAJ&hl=en
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Ajo-Franklin":
+  - firstname: ["Caroline", "Caroline M."]
+    url: https://scholar.google.com/citations?user=TmqP_78AAAAJ&hl=en
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Su":
+  - firstname: ["Lin"]
+    url: https://scholar.google.com/citations?user=XBwfd50AAAAJ&hl=en
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Bennett": 
+  - firstname: ["George N.", "George"]
+    url: https://scholar.google.com/citations?user=txdJApMAAAAJ&hl=en
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Zhang":
+  - firstname: ["Xu"]
+    url: https://scholar.google.com/citations?user=w8xkj30AAAAJ&hl=en

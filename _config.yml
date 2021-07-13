@@ -24,8 +24,12 @@ baseurl: /al-folio # the subpath of your site, e.g. /blog/
 =======
 icon: 🧬 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
+<<<<<<< HEAD
 baseurl: /about # the subpath of your site, e.g. /blog/
 >>>>>>> 4fbbaf2 (Initialization, updated About, pubs)
+=======
+baseurl: # the subpath of your site, e.g. /blog/
+>>>>>>> e79e8a9 (WebsiteSetup)
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -79,7 +83,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  #You can even add a little note about which of these is the best way to reach you.
+  
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
@@ -95,8 +99,12 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
+<<<<<<< HEAD
 blog_name: al-folio # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+=======
+blog_name: Musings  # your blog must have a name for it to show up in the nav bar
+>>>>>>> e79e8a9 (WebsiteSetup)
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -218,8 +226,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Atkinson
+  first_name: [Joshua, T.]
 
   style: apa
   locale: en
