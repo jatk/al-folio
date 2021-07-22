@@ -8,31 +8,16 @@ middle_name: T.
 last_name: Atkinson
 email: josh.t.atkinson@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  This is the personal website of Joshua Atkinson.
+  This is the personal website of Joshua Atkinson.  
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-<<<<<<< HEAD
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
-=======
->>>>>>> 358809d (Updated description)
+keywords:   # add your own keywords or leave empty
 
-<<<<<<< HEAD
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
-
-url: https://alshedivat.github.io # the base hostname & protocol for your site
-baseurl: /al-folio # the subpath of your site, e.g. /blog/
-=======
 icon: 🧬 # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
-<<<<<<< HEAD
 baseurl: /about # the subpath of your site, e.g. /blog/
->>>>>>> 4fbbaf2 (Initialization, updated About, pubs)
-=======
-baseurl: # the subpath of your site, e.g. /blog/
->>>>>>> e79e8a9 (WebsiteSetup)
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -86,13 +71,13 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  
+  #You can even add a little note about which of these is the best way to reach you.
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics: UA-203060886-1 # your google-analytics ID (format: UA-XXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -102,12 +87,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-<<<<<<< HEAD
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-=======
-blog_name: Musings  # your blog must have a name for it to show up in the nav bar
->>>>>>> e79e8a9 (WebsiteSetup)
+blog_name:  # blog_name will be displayed in your blog page
+blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 
@@ -116,19 +97,7 @@ pagination:
   enabled: true
 
 # Comments
-<<<<<<< HEAD
-disqus_shortname: al-folio # put your disqus shortname
-# https://help.disqus.com/en/articles/1717111-what-s-a-shortname
-
-# External sources.
-# If you have blog posts published on medium.com or other exteranl sources,
-# you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-=======
 disqus_shortname: # put your disqus shortname
->>>>>>> 4fbbaf2 (Initialization, updated About, pubs)
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -230,7 +199,7 @@ jekyll-archives:
 scholar:
 
   last_name: Atkinson
-  first_name: [Joshua, T.]
+  first_name: [Joshua T.]
 
   style: apa
   locale: en
@@ -289,7 +258,7 @@ jekyll-diagrams:
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_google_verification: false  # enables google site verification
 enable_bing_verification:   false  # enables bing site verification
