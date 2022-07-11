@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
     NSF Postdoctoral Fellow. 
-    <br><a href="http://www.elnaggarlab.org/">El-Naggar Lab</a>. -- University of Southern California </br>
+    <br><a href="http://www.elnaggarlab.org/">El-Naggar Lab</a> -- University of Southern California </br>
 
 
 profile:
