@@ -1,12 +1,13 @@
 "Atkinson": 
  - firstname: ["Joshua T.", "Joshua"]
    url: https://scholar.google.com/citations?user=YEvcaogAAAAJ&hl=en
+
 "Silberg":
-  - firstname: ["Jonathan J.", "Jonathan"]
+  - firstname: ["Jonathan J.", "Jonathan", "Jonathan J"]
     url: https://scholar.google.com/citations?user=w3uEh7oAAAAJ&hl=en
 
 "Ajo-Franklin":
-  - firstname: ["Caroline", "Caroline M."]
+  - firstname: ["Caroline", "Caroline M.", "Caroline M"]
     url: https://scholar.google.com/citations?user=TmqP_78AAAAJ&hl=en
 
 "Su":
@@ -19,4 +20,8 @@
 
 "Zhang":
   - firstname: ["Xu"]
+    url: https://scholar.google.com/citations?user=w8xkj30AAAAJ&hl=en
+
+"El-Naggar":
+  - firstname: ["Moh", "Mohamed", "Mohamed Y", "Mohamed Y."]
     url: https://scholar.google.com/citations?user=w8xkj30AAAAJ&hl=en
