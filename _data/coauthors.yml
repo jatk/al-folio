@@ -3,7 +3,7 @@
    url: https://scholar.google.com/citations?user=YEvcaogAAAAJ&hl=en
 
 "Silberg":
-  - firstname: ["Jonathan J.", "Jonathan", "Jonathan J"]
+  - firstname: ["Jonathan J.", "Jonathan", "Jonathan J", "Joff"]
     url: https://scholar.google.com/citations?user=w3uEh7oAAAAJ&hl=en
 
 "Ajo-Franklin":
@@ -15,7 +15,7 @@
     url: https://scholar.google.com/citations?user=XBwfd50AAAAJ&hl=en
 
 "Bennett": 
-  - firstname: ["George N.", "George"]
+  - firstname: ["George N.", "George", "George N"]
     url: https://scholar.google.com/citations?user=txdJApMAAAAJ&hl=en
 
 "Zhang":
@@ -24,4 +24,68 @@
 
 "El-Naggar":
   - firstname: ["Moh", "Mohamed", "Mohamed Y", "Mohamed Y."]
-    url: https://scholar.google.com/citations?user=w8xkj30AAAAJ&hl=en
+    url: https://scholar.google.com/citations?user=LPCqNC0AAAAJ&hl=en&oi=ao
+
+"Gralnick":
+  - firstname: ["Jeff", "Jeffrey", "Jeffrey A", "Jeffrey A."]
+    url: https://scholar.google.com/citations?user=6zfwOQwAAAAJ&hl=en&oi=ao
+
+"Boedicker":
+  - firstname: ["James Q", "James", "James Q."]
+    url: https://scholar.google.com/citations?user=LMQ2CCUAAAAJ&hl=en&oi=ao
+
+"Zhao":
+  - firstname: ["Fengjie"]
+    url: https://scholar.google.com/citations?user=c9rP-1YAAAAJ&hl=en&oi=ao
+
+"Campbell":
+  - firstname: ["Ian", "Ian J.", "Ian J"]
+    url: 
+
+"Carpenter":
+  - firstname: ["Matt", "Matthew D.", "Matthew D"]
+    url: https://scholar.google.com/citations?user=LY-ReHYAAAAJ&hl=en&oi=sra
+
+"Chavez":
+  - firstname: ["Marko", "Marko S.", "Marko S"]
+    url: https://scholar.google.com/citations?user=-eWuy9wAAAAJ&hl=en&oi=ao
+
+"Naughton":
+  - firstname: ["Kyle", "Kyle L.", "Kyle L"]
+    url: https://scholar.google.com/citations?user=FWipcu8AAAAJ&hl=en&oi=sra
+
+"Atkinson":
+  - firstname: ["Joshua", "Joshua T", "Joshua T."]
+    url: https://scholar.google.com/citations?user=YEvcaogAAAAJ&hl=en
+
+"Myerscough":
+  - firstname: ["Dru"]
+    url: https://scholar.google.com/citations?user=pkNKPCsAAAAJ&hl=en&oi=ao
+
+"Tseng":
+  - firstname: ["Chia-Ping", "Andy", "Chia", "Chia P", "Chia P."]
+    url: https://scholar.google.com/citations?user=IJUkbMQAAAAJ&hl=en&oi=ao
+
+"Verduzco":
+  - firstname: ["Rafael"]
+    url: https://scholar.google.com/citations?user=MJ6u8VcAAAAJ&hl=en&oi=ao
+    
+"Kahanda":
+  - firstname: ["Dimithree"]
+    url: https://scholar.google.com/citations?user=18TCb78AAAAJ&hl=en&oi=ao
+
+"Elliot":
+  - firstname: ["Sean", "Sean J.", "Sean J"]
+    url: https://scholar.google.com/citations?user=sYMlmBQAAAAJ&hl=en&oi=ao
+
+"Nanda":
+  - firstname: ["Vikas"]
+    url: https://scholar.google.com/citations?user=wOvjMRIAAAAJ&hl=en&oi=ao
+       
+"Zhou":
+  - firstname: ["Quan"]
+    url: https://scholar.google.com/citations?user=R9avDtcAAAAJ&hl=en&oi=sra
+       
+
+    
+
