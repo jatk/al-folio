@@ -1,5 +1,9 @@
 "Atkinson": 
- - firstname: ["Joshua T.", "Joshua"]
+ - firstname: ["Joshua T.", "Joshua", "Joshua T"]
+   url: https://scholar.google.com/citations?user=YEvcaogAAAAJ&hl=en
+
+"Atkinson*": 
+ - firstname: ["Joshua T.", "Joshua", "Joshua T"]
    url: https://scholar.google.com/citations?user=YEvcaogAAAAJ&hl=en
 
 "Silberg":
@@ -13,6 +17,11 @@
 "Su":
   - firstname: ["Lin"]
     url: https://scholar.google.com/citations?user=XBwfd50AAAAJ&hl=en
+
+"Su*":
+  - firstname: ["Lin"]
+    url: https://scholar.google.com/citations?user=XBwfd50AAAAJ&hl=en
+
 
 "Bennett": 
   - firstname: ["George N.", "George", "George N"]
