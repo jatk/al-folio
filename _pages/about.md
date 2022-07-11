@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: NSF Postdoctoral Fellow. <a href="http://www.elnaggarlab.org/">El-Naggar Lab</a>. University of Southern California.
+subtitle: NSF Postdoctoral Fellow. <a href="http://www.elnaggarlab.org/">El-Naggar Lab</a>. @ the University of Southern California and the Nielsen Lab @ Aarhus University.
 
 profile:
   align: right
