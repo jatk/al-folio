@@ -2,7 +2,10 @@
 layout: about
 title: about
 permalink: /
-subtitle: NSF Postdoctoral Fellow. <a href="http://www.elnaggarlab.org/">El-Naggar Lab</a>. @ the University of Southern California and the Nielsen Lab @ Aarhus University in Aarhus, Denmark.
+subtitle: >
+    NSF Postdoctoral Fellow. 
+    <br><a href="http://www.elnaggarlab.org/">El-Naggar Lab</a>. - University of Southern California </br>
+    <br><a href="https://bio.au.dk/forskning/forskningscentre/center-for-elektromikrobiologi-cem/">Center for Electromicrobiology </a>. - Aarhus University </br>
 
 profile:
   align: right
