@@ -83,7 +83,7 @@
   - firstname: ["Dimithree"]
     url: https://scholar.google.com/citations?user=18TCb78AAAAJ&hl=en&oi=ao
 
-"Elliot":
+"Elliott":
   - firstname: ["Sean", "Sean J.", "Sean J"]
     url: https://scholar.google.com/citations?user=sYMlmBQAAAAJ&hl=en&oi=ao
 
@@ -100,7 +100,7 @@
     url: https://scholar.google.com/citations?user=GlqwYCwAAAAJ&hl=en&oi=ao
        
 "Olmos":
-  - firstname: ["Joey", "Jose", "Jose Louis", "Jose L", "Jose L."]
+  - firstname: ["Joey", "Jose", "Jose Luis", "Jose L", "Jose L."]
     url: https://scholar.google.com/citations?user=exW-ul8AAAAJ&hl=en&oi=ao
 
 "Terlier":
@@ -111,5 +111,34 @@
   - firstname: ["Yilin"]
     url: https://scholar.google.com/citations?user=2UoIQkwAAAAJ&hl=en&oi=ao
 
-    
+"Segall-Shapiro":
+  - firstname: ["Thomas", "Thomas Hale", "Thomas H", "Thomas H."]
+    url: https://scholar.google.com/citations?user=rXvllNcAAAAJ&hl=en
 
+"Bondos":
+  - firstname: ["Sarah"]
+    url: https://scholar.google.com/citations?user=qrv2MesAAAAJ&hl=en
+
+"Segatori":
+  - firstname: ["Laura"]
+    url: https://scholar.google.com/citations?user=1gB9PVYAAAAJ&hl=en
+    
+"Masiello":
+  - firstname: ["Caroline", "Caroline A.", "Caroline A"]
+    url: https://scholar.google.com/citations?user=1GGkVIQAAAAJ&hl=en&oi=ao
+    
+"Miller":
+  - firstname: ["Mitchell", "Mitchell D", "Mitchell D."]
+    url: https://scholar.google.com/citations?user=waude4cAAAAJ&hl=en&oi=ao
+
+"Mehta":
+  - firstname: ["Manan", "Manan M", "Manan M."]
+    url: https://scholar.google.com/citations?user=XQ35t3oAAAAJ&hl=en&oi=ao
+
+"Bayless":
+  - firstname: ["Kayla J", "Kayla J.", "Kayla"]
+    url: https://scholar.google.com/citations?user=zaBhjnYAAAAJ&hl=en&oi=sra
+  
+"Hendry":
+  - firstname: ["Tory A", "Tory A.", "Tory"]
+    url: https://scholar.google.com/citations?user=wlQYpPUAAAAJ&hl=en&oi=ao
