@@ -4,8 +4,8 @@ title: about
 permalink: /
 subtitle: >
     NSF Postdoctoral Fellow. 
-    <br><a href="http://www.elnaggarlab.org/">El-Naggar Lab</a>. - University of Southern California </br>
-    <br><a href="https://bio.au.dk/forskning/forskningscentre/center-for-elektromikrobiologi-cem/">Center for Electromicrobiology </a>. - Aarhus University </br>
+    <br><a href="http://www.elnaggarlab.org/">El-Naggar Lab</a>. -- University of Southern California </br>
+
 
 profile:
   align: right

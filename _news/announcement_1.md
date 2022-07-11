@@ -1,7 +1,11 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
-inline: true
+title: Josh started as an NSF Postdoctoral Fellow in the El-Naggar lab @ USC
+date: 2020-08-01 00:00:00-0000
+inline: false
 ---
 
-A simple inline announcement.
+Josh started as an NSF Postdoctoral Fellow in the El-Naggar lab @ USC
+
+***
+
