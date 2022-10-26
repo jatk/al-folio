@@ -15,6 +15,9 @@ Josh presented on the Editor's choice paper, <a href = "https://academic.oup.com
 
 ***
 
-<iframe width="800" height="450"
+
+<div class="video-container">
+<iframe width="100%" height="auto"
 src="https://www.youtube.com/embed/CG1RMxUSlBY">
 </iframe>
+</div>

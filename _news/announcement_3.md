@@ -9,6 +9,8 @@ Josh presented his work on using synthetic biology & protein engineering to buil
 
 ***
 
-<iframe width="800" height="450"
+<div class="video-container">
+<iframe width="100%" height="auto"
 src="https://www.youtube.com/embed/c2s9U5Oj850">
 </iframe>
+</div>
